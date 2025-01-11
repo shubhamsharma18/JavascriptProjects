@@ -1,0 +1,168 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    box-sizing:border-box;
+
+}
+body{
+    background: rgb(204,190,219);
+  /*  background: linear-gradient(90deg, rgba(204,190,219,1) 46%, rgba(120,195,255,1) 100%, rgba(105,104,105,1) 100%);*/
+  background-color: black;
+ 
+  
+}
+.heading{
+    color:white;
+    font-size: 40px;
+    justify-content: center;
+ text-align: center;
+ margin-top:60px;
+ font-weight: 1000;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading:hover{
+    color: rgb(236, 217, 243);
+}
+.card{
+    width:90%;
+    max-width:470px;
+    background: rgb(184, 170, 199);
+background: linear-gradient(90deg, rgb(206, 185, 228) 46%, rgb(102, 180, 243) 100%, rgb(131, 131, 131) 100%);
+    color:#fff;
+    margin:100px auto 0;
+    border-radius:20px;
+    padding:35px 40px;
+    text-align: center;
+   
+   
+}
+.search{
+    min-width:100%;
+    display:flex;
+    align-items:center;
+    
+
+}
+.search input{
+    border:0;
+    outline:0;
+    background-color: #ebfffc;
+    padding:10px 25px;
+    height:60px;
+    border-radius:30px;
+    min-width: 0;
+    flex:1;
+    margin-right:16px;
+    font-size:18px;
+
+
+}
+.search input:focus{
+    outline: none;
+    outline-style: none;
+
+}
+.search button{
+    border:0px;
+    outline:0px;
+    background:#ebfffc;
+    border-radius:50%;
+    width:60px;
+    height:60px;
+    cursor:pointer;
+}
+.search button img{
+    width:40px;
+}
+.weather-icon{
+    width:200px;
+    margin-top:10px;
+
+}
+.weather h1{
+    font-size:60px;
+    font-weight:500;
+    margin-bottom: 15px;;
+}
+.weather h2{
+    font-size:45px;
+    font-weight:400;
+    margin-top:-10px;
+}
+.details{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    padding:0px 20px;
+    margin-top:50px;
+  overflow: hidden;
+   
+}
+.col{
+    display:flex;
+    align-items: center;
+    text-align:left;
+    
+   
+}
+.col img{
+    width:50%;
+    margin-right:5px;
+
+}
+.col .wind{
+    width:80px;
+}
+
+.humidity, .wind{
+    font-size:28px;
+    margin-top:-6px;
+}
+.weather{
+    display:none;
+}
+.error{
+    text-align:left;
+    margin-left:10px;
+    font-size:14px;
+    margin-top:10px;
+    display:none;
+}
+.owner{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size:30px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-top:50px;
+
+
+
+}
+.owner:hover{
+    color: #ebfffc;
+}
+@media(max-width:463px){
+  
+  .details{
+    flex-direction: column;
+    
+  }
+  .col{
+    align-content: center;
+    margin-top: 10px;
+  }
+  .card{
+    margin-top:5px;
+    padding:15px 15px;
+    
+
+  }
+
+}
+@media (min-width: 768px) {
+    .search input {
+        max-width: 400px; /* Fixed max-width for desktop */
+    }
+}
