@@ -19,4 +19,4 @@ CSS: Styling to make it look visually appealing.
 JavaScript: Adds the magic! The mousemove event listener is used to track the mouse position and move the circle div accordingly.
 
 Demo 🎥
-Check out the live demo here. (cryptositebyshubham.netlify.app)
+Check out the live demo here. (https://cryptositebyshubham.netlify.app/)
