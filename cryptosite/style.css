@@ -9,13 +9,12 @@
 html, body {
     width: 100%;
     background-color: #ffffff;
-    
 }
 
 /* Navigation Bar */
 .nav {
     background-color: #fff;
-    width: 100%;
+    max-width: 100%;
     height: 60px;
     display: flex;
     align-items: center;
@@ -113,17 +112,21 @@ html, body {
     border-radius: 6px;
 }
 .cursor{
-    height:30px;
-    width:30px;
-    background-color: rgb(255, 232, 24);
+    height:40px;
+    width:40px;
+
+    background-color: rgb(255, 231, 14);
     border-radius: 50%;
     position: absolute;
-    transition: 0.1s;
     mix-blend-mode: difference;
+    transition: 0.15s;
 }
 
 /* Media Queries */
 @media (max-width: 710px) {
+    .cursor{
+        display: none;
+    }
     .links a {
         display: none;
     }
@@ -140,9 +143,10 @@ html, body {
 }
 
 @media (max-width: 500px) {
-    .main {
+    #main {
         padding: 0;
         margin: 0;
+        display: flex;
         flex-direction: column-reverse;
         gap: 50px;
     }
