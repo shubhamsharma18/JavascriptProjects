@@ -17,6 +17,6 @@ HTML: Structure of the landing page.
 CSS: Styling to make it look visually appealing.
 
 JavaScript: Adds the magic! The mousemove event listener is used to track the mouse position and move the circle div accordingly.
-
+<img src="C:\Users\SHUBHAM\Downloads\scs.png>
 Demo 🎥
 Check out the live demo here. (https://cryptositebyshubham.netlify.app/)
