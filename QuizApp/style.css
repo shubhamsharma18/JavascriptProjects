@@ -1,0 +1,114 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+body{
+    width:100%;
+
+}
+#main{
+min-height: 100vh;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+background: #4b6cb7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+#quiz{
+    height:300px;
+   width:300px;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+  margin-bottom:150px;
+    align-items:center;
+    padding: 20px auto;
+background-color: transparent;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+}
+.logo img{
+    height:100px;
+    width:100x;
+}
+#start
+{
+    padding:8px;
+    margin-top:10px;
+    border: none;
+    font-size:20px;
+    background-color: rgb(50, 170, 250);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+
+}
+#start:hover{
+    background-color: black;
+    color: aliceblue;
+    transition:0.8s;
+}
+#form{
+    background-color:transparent;
+    min-height:350px;
+    width:300px;
+    box-shadow:  5px 5px 4px 0px rgba(0, 0, 0, 0.904);
+    border-radius: 15px 15px 15px 15px;
+    display: none;
+    margin-bottom:150px;
+}
+.card{
+    padding:25px;
+}
+.options{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.options button{
+    margin:10px 0px;
+    padding:8px;;
+    text-align:start;
+    border: none;
+    background-color: rgb(221, 239, 255);
+}
+.options button:hover{
+    border: 1px solid rgb(8, 0, 114);
+   
+}
+.playbtn{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-top: 10px;
+
+}
+.playbtn button{
+    font-size: 15px;
+    padding: 5px;;
+}
+#question{
+    font-weight: 900;
+    font-size: 20px;
+    color:rgb(255, 255, 255)
+    
+}
+@media (max-width:325px){
+    #form{
+        min-height:300px;
+        width:80vw;
+
+    }
+}
+#resetbtn{
+    background-color: brown;
+    color: aliceblue;
+}
