@@ -33,7 +33,7 @@ Stay updated with the latest news from around the world! 🌍 This app fetches n
 ### ❓ Quiz App
 Test your knowledge with this interactive quiz app! 🧠💡 It features multiple-choice questions, tracks your score, and even offers feedback on your answers. Great for a quick mental workout! 💪
 
-![Quiz App Screenshot](assets/screenshots/quiz-app.png)
+![Quiz App Screenshot](assets/quiz.png)
 
 ➡ **[Live Demo](#)**
 
