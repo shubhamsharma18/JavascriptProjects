@@ -32,73 +32,67 @@ News App
 <img src="assets/news.png" alt="News App Screenshot" width="450">
 
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://newsappbyshubham.netlify.app/)**
 
 ### ❓ Quiz App
 Test your knowledge with this interactive quiz app! 🧠💡 It features multiple-choice questions, tracks your score, and even offers feedback on your answers. Great for a quick mental workout! 💪
 
 
 Quiz App
-
 <br>
 <img src="assets/quiz.png" alt="Quiz App Screenshot" width="450" >
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://quizgamebyshubham.netlify.app/)**
 
 ### ☁️ Weather App
 Wondering if you need an umbrella today? 🌧️☀️ This weather app has got you covered! It uses an API to provide real-time weather updates based on your location or a city you search for.
 
 Weather App 
-
 <br>
 
 <img src="assets/weather.png" alt="weather App Screenshot" width="450">
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://weatherappbyshubham.netlify.app/)**
 
 ### 🧮 Calculator
 A simple yet powerful calculator that can handle all your basic arithmetic needs! ➕➖✖️➗ Designed with a clean and intuitive UI for quick calculations.
 
 Calculator 
-
 <br>
 
 <img src="assets/calculator.png" alt="Calculator Screenshot" width="450">
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://calculatorbyshubham.netlify.app/)**
 
 ### 🎨 Color Changer
 Feeling creative? 🎉 With this app, you can change the background color of your webpage with just a click. It's a fun way to experiment with different color schemes! 🌈
 
 Color Changer 
-
 <br>
 
 <img src="assets/colorchanger.png" alt="color changer Screenshot" width="450" >
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://colorchangerbyshubham.netlify.app/)**
 
 ### 💰 Crypto Site
 Dive into the world of cryptocurrencies! 🚀📈 This app provides real-time updates on crypto prices, market trends, and detailed stats about your favorite coins. Perfect for crypto enthusiasts! 💎
 
 Crypto Site 
-
 <br>
 
 <img src="assets/cryptosite.png" alt="crypto Screenshot" width="450">
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://cryptositebyshubham.netlify.app/)**
 
 ### 🖼️ Image Slider
 Showcase your favorite photos with this smooth and stylish image slider! 📸✨ Navigate through images seamlessly with the provided buttons. It's a must-have for any portfolio or gallery.
 
 Image Slider 
-
 <br>
 
 <img src="assets/slider.png" alt="image slider Screenshot" width="450" >
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://imgsliderbyshubham.netlify.app/)**
 
 ### 📝 To-Do List
 Stay organized and productive with this handy to-do list app! ✅🕒 Add, delete, and manage your tasks effortlessly. It's the ultimate tool for keeping track of your day.
@@ -109,7 +103,7 @@ To-Do List
 
 <img src="assets/list.png" alt=" To-Do List Screenshot" width="450" >
 
-➡ **[Live Demo](#)**
+➡ **[Live Demo](https://to-do-listbyshubham.netlify.app/)**
 
 ---
 
