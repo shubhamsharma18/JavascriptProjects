@@ -33,14 +33,14 @@ Stay updated with the latest news from around the world! 🌍 This app fetches n
 ### ❓ Quiz App
 Test your knowledge with this interactive quiz app! 🧠💡 It features multiple-choice questions, tracks your score, and even offers feedback on your answers. Great for a quick mental workout! 💪
 
-![Quiz App Screenshot](assets/quiz.png)
+![Quiz App Screenshot](assets/quiz.png alt="" width:300px)
 
 ➡ **[Live Demo](#)**
 
 ### ☁️ Weather App
 Wondering if you need an umbrella today? 🌧️☀️ This weather app has got you covered! It uses an API to provide real-time weather updates based on your location or a city you search for.
 
-![Weather App Screenshot](assets/weather.png)
+![Weather App Screenshot](assets/weather.png alt="" width:300px)
 
 ➡ **[Live Demo](#)**
 
@@ -54,28 +54,28 @@ A simple yet powerful calculator that can handle all your basic arithmetic needs
 ### 🎨 Color Changer
 Feeling creative? 🎉 With this app, you can change the background color of your webpage with just a click. It's a fun way to experiment with different color schemes! 🌈
 
-![Color Changer Screenshot](assets/colorchanger.png)
+![Color Changer Screenshot](assets/colorchanger.png alt="" width:300px)
 
 ➡ **[Live Demo](#)**
 
 ### 💰 Crypto Site
 Dive into the world of cryptocurrencies! 🚀📈 This app provides real-time updates on crypto prices, market trends, and detailed stats about your favorite coins. Perfect for crypto enthusiasts! 💎
 
-![Crypto Site Screenshot](assets/cryptosite.png)
+![Crypto Site Screenshot](assets/cryptosite.png alt="" width:300px)
 
 ➡ **[Live Demo](#)**
 
 ### 🖼️ Image Slider
 Showcase your favorite photos with this smooth and stylish image slider! 📸✨ Navigate through images seamlessly with the provided buttons. It's a must-have for any portfolio or gallery.
 
-![Image Slider Screenshot](assets/slider.png)
+![Image Slider Screenshot](assets/slider.png alt="" width:300px)
 
 ➡ **[Live Demo](#)**
 
 ### 📝 To-Do List
 Stay organized and productive with this handy to-do list app! ✅🕒 Add, delete, and manage your tasks effortlessly. It's the ultimate tool for keeping track of your day.
 
-![To-Do List Screenshot](assets/list.png)
+![To-Do List Screenshot](assets/list.png alt="" width:300px)
 
 ➡ **[Live Demo](#)**
 
