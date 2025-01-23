@@ -26,7 +26,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
 ### 📰 News App
 Stay updated with the latest news from around the world! 🌍 This app fetches news articles using an API, and you can browse them by category or search for specific topics. It's fully responsive, making it perfect for any device.
 
-<img src="assets/news.png alt="" width:300px">
+<img src="assets/news.png" alt="" width:"300px">
 
 ➡ **[Live Demo](#)**
 
