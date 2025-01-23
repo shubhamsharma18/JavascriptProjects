@@ -85,7 +85,7 @@ Stay organized and productive with this handy to-do list app! ✅🕒 Add, delet
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/JavascriptProject.git
+   git clone https://github.com/shubhamsharma18/JavascriptProject.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -95,24 +95,6 @@ Stay organized and productive with this handy to-do list app! ✅🕒 Add, delet
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you'd like to improve any project or add a new one, feel free to open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add your message here'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
 
 ---
 
@@ -121,5 +103,14 @@ Contributions are welcome! If you'd like to improve any project or add a new one
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
 ---
+
+## Contact Me
+
+Have questions or feedback? Feel free to reach out! 😊
+
+- 📧 Email: [shubhamsharma4476@gmail.com](mailto:shubhamsharma4476@gmail.com)
+- 🐦 Instagram: [@shubh_2610](https://instagram.com/shubh_2610)
+- 💼 LinkedIn: [Shubham](https://www.linkedin.com/in/shubham-sharma-7b92802a8/)
+
 
 Thank you for checking out my projects! Feel free to explore and provide feedback. 😊
