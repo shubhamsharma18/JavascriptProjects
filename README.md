@@ -42,7 +42,7 @@ Test your knowledge with this interactive quiz app! 🧠💡 It features multipl
 ### ☁️ Weather App
 Wondering if you need an umbrella today? 🌧️☀️ This weather app has got you covered! It uses an API to provide real-time weather updates based on your location or a city you search for.
 
-![Weather App Screenshot]
+Weather App Screenshot
 <img src="assets/weather.png" alt="weather App Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
