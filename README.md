@@ -26,7 +26,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
 ### 📰 News App
 Stay updated with the latest news from around the world! 🌍 This app fetches news articles using an API, and you can browse them by category or search for specific topics. It's fully responsive, making it perfect for any device.
 
-![News App Screenshot](assets/screenshots/news-app.png)
+![News App Screenshot](assets/news.png)
 
 ➡ **[Live Demo](#)**
 
@@ -40,42 +40,42 @@ Test your knowledge with this interactive quiz app! 🧠💡 It features multipl
 ### ☁️ Weather App
 Wondering if you need an umbrella today? 🌧️☀️ This weather app has got you covered! It uses an API to provide real-time weather updates based on your location or a city you search for.
 
-![Weather App Screenshot](assets/screenshots/weather-app.png)
+![Weather App Screenshot](assets/weather.png)
 
 ➡ **[Live Demo](#)**
 
 ### 🧮 Calculator
 A simple yet powerful calculator that can handle all your basic arithmetic needs! ➕➖✖️➗ Designed with a clean and intuitive UI for quick calculations.
 
-![Calculator Screenshot](assets/screenshots/calculator.png)
+![Calculator Screenshot](assets/calculator.png)
 
 ➡ **[Live Demo](#)**
 
 ### 🎨 Color Changer
 Feeling creative? 🎉 With this app, you can change the background color of your webpage with just a click. It's a fun way to experiment with different color schemes! 🌈
 
-![Color Changer Screenshot](assets/screenshots/color-changer.png)
+![Color Changer Screenshot](assets/colorchanger.png)
 
 ➡ **[Live Demo](#)**
 
 ### 💰 Crypto Site
 Dive into the world of cryptocurrencies! 🚀📈 This app provides real-time updates on crypto prices, market trends, and detailed stats about your favorite coins. Perfect for crypto enthusiasts! 💎
 
-![Crypto Site Screenshot](assets/screenshots/crypto-site.png)
+![Crypto Site Screenshot](assets/cryptosite.png)
 
 ➡ **[Live Demo](#)**
 
 ### 🖼️ Image Slider
 Showcase your favorite photos with this smooth and stylish image slider! 📸✨ Navigate through images seamlessly with the provided buttons. It's a must-have for any portfolio or gallery.
 
-![Image Slider Screenshot](assets/screenshots/image-slider.png)
+![Image Slider Screenshot](assets/slider.png)
 
 ➡ **[Live Demo](#)**
 
 ### 📝 To-Do List
 Stay organized and productive with this handy to-do list app! ✅🕒 Add, delete, and manage your tasks effortlessly. It's the ultimate tool for keeping track of your day.
 
-![To-Do List Screenshot](assets/screenshots/to-do-list.png)
+![To-Do List Screenshot](assets/list.png)
 
 ➡ **[Live Demo](#)**
 
