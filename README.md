@@ -26,7 +26,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
 ### 📰 News App
 Stay updated with the latest news from around the world! 🌍 This app fetches news articles using an API, and you can browse them by category or search for specific topics. It's fully responsive, making it perfect for any device.
 
-<img src="assets/news.png" alt="News App Screenshot" width="600" height="400">
+<img src="assets/news.png" alt="News App Screenshot" width="350" height="250">
 
 
 ➡ **[Live Demo](#)**
@@ -34,49 +34,56 @@ Stay updated with the latest news from around the world! 🌍 This app fetches n
 ### ❓ Quiz App
 Test your knowledge with this interactive quiz app! 🧠💡 It features multiple-choice questions, tracks your score, and even offers feedback on your answers. Great for a quick mental workout! 💪
 
-![Quiz App Screenshot](assets/quiz.png alt="" width:300px)
+![Quiz App Screenshot]
+<img src="assets/quiz.png" alt="Quiz App Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
 ### ☁️ Weather App
 Wondering if you need an umbrella today? 🌧️☀️ This weather app has got you covered! It uses an API to provide real-time weather updates based on your location or a city you search for.
 
-![Weather App Screenshot](assets/weather.png alt="" width:300px)
+![Weather App Screenshot]
+<img src="assets/weather.png" alt="weather App Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
 ### 🧮 Calculator
 A simple yet powerful calculator that can handle all your basic arithmetic needs! ➕➖✖️➗ Designed with a clean and intuitive UI for quick calculations.
 
-![Calculator Screenshot](assets/calculator.png)
+![Calculator Screenshot]
+<img src="assets/calculator.png" alt="Calculator Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
 ### 🎨 Color Changer
 Feeling creative? 🎉 With this app, you can change the background color of your webpage with just a click. It's a fun way to experiment with different color schemes! 🌈
 
-![Color Changer Screenshot](assets/colorchanger.png alt="" width:300px)
+![Color Changer Screenshot]
+<img src="assets/colorchanger.png" alt="color changer Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
 ### 💰 Crypto Site
 Dive into the world of cryptocurrencies! 🚀📈 This app provides real-time updates on crypto prices, market trends, and detailed stats about your favorite coins. Perfect for crypto enthusiasts! 💎
 
-![Crypto Site Screenshot](assets/cryptosite.png alt="" width:300px)
+![Crypto Site Screenshot]
+<img src="assets/cryptosite.png" alt="crypto Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
 ### 🖼️ Image Slider
 Showcase your favorite photos with this smooth and stylish image slider! 📸✨ Navigate through images seamlessly with the provided buttons. It's a must-have for any portfolio or gallery.
 
-![Image Slider Screenshot](assets/slider.png alt="" width:300px)
+![Image Slider Screenshot]
+<img src="assets/slider.png" alt="image slider Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
 ### 📝 To-Do List
 Stay organized and productive with this handy to-do list app! ✅🕒 Add, delete, and manage your tasks effortlessly. It's the ultimate tool for keeping track of your day.
 
-![To-Do List Screenshot](assets/list.png alt="" width:300px)
+![To-Do List Screenshot]
+<img src="assets/list.png" alt=" To-Do List Screenshot" width="350" height="250">
 
 ➡ **[Live Demo](#)**
 
