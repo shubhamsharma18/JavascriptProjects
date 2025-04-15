@@ -11,3 +11,4 @@ function hidebar(){
     sidebar.style.display='none';
 }
 cancel.addEventListener('click',hidebar);
+
