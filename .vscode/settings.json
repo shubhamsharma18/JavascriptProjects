@@ -1,4 +1,6 @@
 {
     "path-intellisense.showHiddenFiles": true,
-    "workbench.secondarySideBar.defaultVisibility": "visible"
+    "workbench.secondarySideBar.defaultVisibility": "visible",
+    "explorer.excludeGitIgnore": true,
+
 }
