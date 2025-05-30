@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock-Paper-Scissor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="game-main">
+  <h1 class="heading">Stone Paper Scissor</h1>
+<div class="game">
+<button onclick="
+  result = computerMovefun('Rock');
+  let winnername = '';
+  if (result === 'Rock') {
+    winnername = 'MATCH TIE';
+  } else if (result === 'Paper') {
+    winnername = 'Computer wins';
+  } else if (result === 'Scissors') {
+    winnername = 'Developer wins';
+  }
+
+imgchange(winnername)
+
+
+  
+"><img src="images/Rock.png"></button>
+
+     <button 
+     onclick="
+   result = computerMovefun('Paper');
+   winnername = '';
+  if (result === 'Rock') {
+    winnername = 'Developer Wins';
+  } else if (result === 'Paper') {
+    winnername = 'MATCH TIE';
+  } else if (result === 'Scissors') {
+    winnername = 'computer Wins';
+  }
+
+
+ imgchange(winnername)
+"
+     
+     
+     
+     ><img src="images/Paper.png"></button>
+      <button  
+      onclick="
+   result = computerMovefun('Scissors');
+   winnername = '';
+  if (result === 'Rock') {
+    winnername = 'Computer wins';
+  } else if (result === 'Paper') {
+    winnername = 'Developer wins';
+  } else if (result === 'Scissors') {
+    winnername = ' MATCH TIE';
+  }
+
+
+  imgchange(winnername)
+"
+      
+      
+      
+      
+      ><img src="images/Scissors.png"></button>
+    
+</div>
+  <div class="move">
+
+   <div class="you"></div>
+    <div class="computer"></div>
+     <div  class="winner"></div>
+
+ </div>
+   
+ </div>
+
+  
+   <script src="script.js"></script>
+</body>
+</html>
