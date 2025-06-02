@@ -90,3 +90,10 @@ button img{
 
 
 }
+@media screen and (max-width: 320px){
+button img {
+  width: 60px;
+  height: 60px;
+  margin-top: 10px;
+}
+}
