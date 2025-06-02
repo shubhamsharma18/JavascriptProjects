@@ -14,7 +14,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
   - [🎨 Color Changer](#-color-changer)
   - [💰 Crypto Site](#-crypto-site)
   - [🖼️ Image Slider](#-image-slider)
-  - [🖼 ANDi Software Solutions](#-ANDI-andi-software-solutions)
+  - [💻 Software Solutions Clone Website](#- software-solutions-clone-website)
   - [📝 To-Do List](#-to-do-list)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
@@ -95,7 +95,7 @@ Image Slider
 
 ➡ **[Live Demo](https://imgsliderbyshubham.netlify.app/)**
 
-💻 Software Solutions Clone Website
+### 💻 Software Solutions Clone Website
 A modern, responsive clone of a software solution provider’s website built with clean UI and dynamic components. Showcases service pages, contact forms, and interactive sections — perfect for startups and tech businesses.
 
 <br> <img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
