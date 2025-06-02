@@ -14,6 +14,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
   - [🎨 Color Changer](#-color-changer)
   - [💰 Crypto Site](#-crypto-site)
   - [🖼️ Image Slider](#-image-slider)
+  - [🖼 ANDi Software Solutions](#-ANDI-Solutions)
   - [📝 To-Do List](#-to-do-list)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
@@ -98,6 +99,8 @@ Image Slider
 A modern, responsive clone of a software solution provider’s website built with clean UI and dynamic components. Showcases service pages, contact forms, and interactive sections — perfect for startups and tech businesses.
 
 <br> <img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
+
+➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**
 
 ### 📝 To-Do List
 Stay organized and productive with this handy to-do list app! ✅🕒 Add, delete, and manage your tasks effortlessly. It's the ultimate tool for keeping track of your day.
