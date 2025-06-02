@@ -14,7 +14,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
   - [🎨 Color Changer](#-color-changer)
   - [💰 Crypto Site](#-crypto-site)
   - [🖼️ Image Slider](#-image-slider)
-  - [💻 Software Solutions Clone Website](#- software-solutions-clone-website)
+  - [💻 Software Solutions Clone Website](#-software-solutions-clone-website)
   - [📝 To-Do List](#-to-do-list)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
