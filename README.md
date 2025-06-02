@@ -94,6 +94,11 @@ Image Slider
 
 ➡ **[Live Demo](https://imgsliderbyshubham.netlify.app/)**
 
+💻 Software Solutions Clone Website
+A modern, responsive clone of a software solution provider’s website built with clean UI and dynamic components. Showcases service pages, contact forms, and interactive sections — perfect for startups and tech businesses.
+
+<br> <img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
+
 ### 📝 To-Do List
 Stay organized and productive with this handy to-do list app! ✅🕒 Add, delete, and manage your tasks effortlessly. It's the ultimate tool for keeping track of your day.
 
