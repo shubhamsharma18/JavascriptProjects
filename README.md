@@ -14,7 +14,7 @@ Welcome to the **JavaScriptProject** repository! 🚀✨ Here, you'll find a col
   - [🎨 Color Changer](#-color-changer)
   - [💰 Crypto Site](#-crypto-site)
   - [🖼️ Image Slider](#-image-slider)
-  - [🖼 ANDi Software Solutions](#-ANDI-Solutions)
+  - [🖼 ANDi Software Solutions](#-ANDI-andi-software-solutions)
   - [📝 To-Do List](#-to-do-list)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
