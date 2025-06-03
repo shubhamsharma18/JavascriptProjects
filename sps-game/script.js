@@ -2,6 +2,10 @@
 let computerMove='';
 let result=''
 let user=''
+let heading = document.querySelector('h1');
+heading.innerHTML = '<h1>helllo</h1>';
+console.log(heading);
+
 function computerMovefun(usermove){
     user=usermove
     const randomMove=(Math.random().toFixed(2))
