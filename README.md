@@ -81,7 +81,7 @@ Color Changer
 A simple, fun, and fully responsive Stone Paper Scissors Game built using HTML, CSS, and JavaScript. Play against the computer with dynamic scoring, animations, and smooth UI. Perfect for learning core JavaScript logic and DOM manipulation.
 
 <br>
-<img src="assets/spsgameimg.png." alt="SPS Game Screenshot" width="450" >
+<img src="assets/spsgameimg.png" alt="SPS Game Screenshot" width="450" >
 
 ➡ **[Live Demo](https://spsgamebyshubham.netlify.app/)**
 <br>
