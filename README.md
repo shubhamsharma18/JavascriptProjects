@@ -76,6 +76,16 @@ Color Changer
 
 ➡ **[Live Demo](https://colorchangerbyshubham.netlify.app/)**
 
+
+### 🎮 Stone Paper Scissors Game
+A simple, fun, and fully responsive Stone Paper Scissors Game built using HTML, CSS, and JavaScript. Play against the computer with dynamic scoring, animations, and smooth UI. Perfect for learning core JavaScript logic and DOM manipulation.
+
+<br>
+<img src="assets/spsgameimg.png." alt="SPS Game Screenshot" width="450" >
+
+➡ **[Live Demo](https://spsgamebyshubham.netlify.app/)**
+<br>
+
 ### 💰 Crypto Site
 Dive into the world of cryptocurrencies! 🚀📈 This app provides real-time updates on crypto prices, market trends, and detailed stats about your favorite coins. Perfect for crypto enthusiasts! 💎
 
@@ -104,15 +114,6 @@ A modern, responsive clone of a software solution provider’s website built wit
 
 ➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**
 
-
-### 🎮 Stone Paper Scissors Game
-A simple, fun, and fully responsive Stone Paper Scissors Game built using HTML, CSS, and JavaScript. Play against the computer with dynamic scoring, animations, and smooth UI. Perfect for learning core JavaScript logic and DOM manipulation.
-
-<br>
-<img src="assets/spsgameimg.png." alt="SPS Game Screenshot" width="450" >
-
-➡ **[Live Demo](https://spsgamebyshubham.netlify.app/)**
-<br>
 
 
 ### 📝 To-Do List
