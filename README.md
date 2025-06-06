@@ -100,7 +100,8 @@ Image Slider
 ### 💻 Software Solutions Clone Website
 A modern, responsive clone of a software solution provider’s website built with clean UI and dynamic components. Showcases service pages, contact forms, and interactive sections — perfect for startups and tech businesses.
 
-<br> <img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
+<br> 
+<img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
 
 ➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**
 
@@ -108,7 +109,8 @@ A modern, responsive clone of a software solution provider’s website built wit
 ###🎮 Stone Paper Scissors Game
 A simple, fun, and fully responsive Stone Paper Scissors Game built using HTML, CSS, and JavaScript. Play against the computer with dynamic scoring, animations, and smooth UI. Perfect for learning core JavaScript logic and DOM manipulation.
 
-<br> <img src="assets/spsgameimg.png." alt="SPS Game Screenshot" width="450" >
+<br> 
+<img src="assets/spsgameimg.png." alt="SPS Game Screenshot" width="450" >
 
 ➡ **[Live Demo](https://spsgamebyshubham.netlify.app/)**
 
