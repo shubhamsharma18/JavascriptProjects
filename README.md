@@ -102,13 +102,13 @@ A modern, responsive clone of a software solution provider’s website built wit
 <br> 
 <img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
 
-➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**<br>
+➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**
 
 
 ### 🎮 Stone Paper Scissors Game
 A simple, fun, and fully responsive Stone Paper Scissors Game built using HTML, CSS, and JavaScript. Play against the computer with dynamic scoring, animations, and smooth UI. Perfect for learning core JavaScript logic and DOM manipulation.
 
-<br> 
+<br>
 <img src="assets/spsgameimg.png." alt="SPS Game Screenshot" width="450" >
 
 ➡ **[Live Demo](https://spsgamebyshubham.netlify.app/)**
