@@ -103,7 +103,7 @@ A modern, responsive clone of a software solution provider’s website built wit
 <br> 
 <img src="assets/software-solution-clone.png" alt="Software Solutions Website Screenshot" width="450" >
 
-➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**
+➡ **[Live Demo](https://andi-softwaresolutions.netlify.app/)**<br>
 
 
 ###🎮 Stone Paper Scissors Game
