@@ -3,19 +3,23 @@
         margin: 0;
         padding: 0;
         font-family: Arial, sans-serif;
-        height: 100vh;
+        height:100vh;
         display: flex;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(135deg, #6a11cb, #2575fc);
+        /* background: linear-gradient(135deg, #828283, #70a5ff); */
+
+       
+
     }
+
 
     .container {
         width: 340px;
         padding: 30px 25px;
         background: #ffffff;
         border-radius: 16px;
-        box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+        box-shadow: 10px 8px 25px rgba(0,0,0,0.2);
         animation: fadeIn 0.9s ease-in-out;
         overflow-x: hidden;
     }
@@ -37,7 +41,7 @@
     }
 
     .input-box input {
-        width: 100%;
+        width: 90%;
         padding: 12px 14px;
         font-size: 16px;
         border-radius: 10px;
