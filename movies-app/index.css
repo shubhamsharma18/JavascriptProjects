@@ -13,7 +13,7 @@ overflow-x: hidden;
 .main{
  
     width:100%;
-    background-color: rgb(14, 14, 14);
+    background-color: rgb(37, 1, 1);
     display:flex;
     flex-direction: column;
     /* justify-content: center; */
@@ -58,8 +58,8 @@ overflow-x: hidden;
 }
 .img-container:hover{
     transform: scale(1.08);
-    border: 2px solid white;
-    box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.356);
+    
+    box-shadow: 2px 2px 12px rgba(255, 255, 255, 0.356);
 }
 
 .img-card {
