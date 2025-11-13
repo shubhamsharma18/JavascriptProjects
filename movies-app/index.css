@@ -1,0 +1,109 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+html,body{
+height:100%;
+width:100%;
+overflow-x: hidden;
+
+}
+
+.main{
+ 
+    width:100%;
+    background-color: rgb(14, 14, 14);
+    display:flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.cards{
+    display: flex;
+    flex-wrap:wrap;
+   
+    gap:1.5rem;
+    height:100%;
+    width:100%;
+   
+
+    justify-content:center;
+    
+}
+.search-bar{
+    padding:30px 0px;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    
+    
+}
+.search-bar input{
+    width:50%;
+    border-radius: 18px;
+    padding:18px;
+    outline:none;
+   
+
+}
+.img-container{
+    border:0px solid white;
+    height:370px;
+    border-radius: 10px;
+    
+    position:relative;
+    transition: all ease-out 0.4s;
+    overflow: hidden;
+}
+.img-container:hover{
+    transform: scale(1.08);
+    border: 2px solid white;
+    box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.356);
+}
+
+.img-card {
+
+height:100%;
+width:100%;
+
+
+}
+.img-card:hover{
+    box-shadow: 3px 8px 13px rgba(255, 255, 255, 0.459);
+}
+.img-card img{
+    object-fit: cover;
+    object-position:center;
+    height:100%;
+    width:100%;
+}
+.img-info{
+    /* border:2px solid yellow; */
+    position:absolute;
+    background-color:rgba(151, 151, 151, 0.212);
+    padding:15px;
+    top:370px;
+    transition:all ease-in-out 0.3s;
+height:100%;
+backdrop-filter: blur(10px);
+   
+
+}
+
+.title{
+    margin-bottom: 8px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.img-container:hover .img-info{
+    height:100%;
+top:0px;
+
+}
+.heading{
+    margin-bottom: 20px;
+    color:rgb(255, 196, 0);
+    font-size: 1.4rem;
+}
