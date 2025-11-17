@@ -1,0 +1,116 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+
+
+*{
+    margin:0px;
+    padding:0px;
+font-family: "Amarante", serif;
+}
+body{
+    height: 100vh;
+        margin: 0;
+        /* background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+         */
+  background: linear-gradient(135deg, #160227, #0a0113);
+
+    overflow-x: hidden;
+
+}
+
+
+.container{
+    height: 100%;
+    width:100%;
+    
+    background: linear-gradient(135deg, #000000, #1b2735);
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+gap:22px;
+
+
+
+}
+
+
+
+
+.main{
+    display:flex;
+    flex-direction: column;
+    gap:0px;
+    border:2px solid green;
+    width:26rem;
+    padding:20px;
+    color:rgb(163, 163, 163);
+/* background: linear-gradient(135deg, #2a0845, #1f003d); */
+background-color: #120222;
+border-radius:20px;
+}
+
+.heading{
+    display:flex;
+    align-items: center;
+    /* justify-content:center; */
+    gap:6px;
+}
+.logo{
+    font-size: 50px;
+}
+form{
+    display:flex;
+    flex-direction: column;
+    margin-top: 15px;
+    gap:15px;
+}
+.namefield,.passwordfield,.coursefield{
+    display:flex;
+    flex-direction: column;
+}
+input[type="text"],input[type="password"],select,button{
+    padding:10px;
+    font-size:14px;
+    border-radius:7px;
+    outline: none;
+    border:none;
+}
+.metadata{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+.btn{
+    width: 100%;
+}
+button{
+    width:100%;
+    background-color: #07a06d;
+}
+
+.pannel{
+     color:rgb(163, 163, 163);
+     border:3px solid orangered;
+     padding:20px;
+     display: flex;
+     flex-direction: column;
+     gap:30px;
+     background-color: #0a0113;
+     border-radius: 20px;
+     width:20rem;
+    }
+.panelheading{
+    display:flex;
+    justify-content: space-between;
+}
+.panelinfo{
+    display: flex;
+    flex-direction: column;
+    gap:8px;
+}
+.pname,.ppassword,.pcourse{
+    background-color: #120222;
+    padding: 14px;
+    border-radius: 6px;
+}
