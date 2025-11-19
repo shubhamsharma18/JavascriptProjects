@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="course.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body style="background-color: rgb(82, 80, 80);">
@@ -39,27 +40,29 @@
 
                 <div class="namefield">
                     <label for="name">Full name</label>
-                    <input type="text" name="name" id="name" placeholder="eg. Shubham Sharma">
+                    <input required  type="text" name="name" autocomplete="off" id="name" placeholder="eg. Shubham Sharma">
 
                 </div>
 
                 <div class="coursefield">
                     <label for="courses">Choose courses</label>
-                    <select name="courses" id="courses" class="courses">
+                    <select name="courses" id="courses" class="courses" required>
 
 
                         <option value="">-Select-a-course</option>
-                        <option value="node">Node.js</option>
-                        <option value="python">DSA in python</option>
-                        <option value="react">Master in Reactjs</option>
-                        <option value="javascript">Advanced javascript</option>
+                        <option value="Node.js">Node.js</option>
+                        <option value="Python">DSA in python</option>
+                        <option value="Reactjs">Master in Reactjs</option>
+                        <option value="Javascript">Advanced javascript</option>
                     </select>
 
                 </div>
                 <div class="passwordfield">
                     <label for="password">Password</label>
-                    <input type="password" name="password" id="password" placeholder="create a strong password">
+            <input type="password" name="password" autocomplete="off"  required id="password" placeholder="Password must be minimum 4 characters" >
+                    <span class="show">show</span>
 
+                    
                 </div>
                 <div class="metadata">
 

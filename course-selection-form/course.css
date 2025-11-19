@@ -75,6 +75,18 @@ input[type="text"],input[type="password"],select,button{
     border-radius:7px;
     outline: none;
     border:none;
+    
+}
+.passwordfield{
+    position: relative;
+}
+.passwordfield span{
+    position: absolute;
+    top:30px;
+    right:10px;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
 }
 .metadata{
     display: flex;
@@ -113,4 +125,8 @@ button{
     background-color: #120222;
     padding: 14px;
     border-radius: 6px;
+}
+
+.passwordfield{
+    display: flex;
 }
